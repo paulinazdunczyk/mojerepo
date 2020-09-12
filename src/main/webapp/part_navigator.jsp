@@ -8,7 +8,7 @@
         </a>
         <a class="py-2 d-none d-md-inline-block" href="${pageContext.request.contextPath}/">Home</a>
         <a class="py-2 d-none d-md-inline-block" href="${pageContext.request.contextPath}/car/form">Car form</a>
-        <a class="py-2 d-none d-md-inline-block" href="#">Nic</a>
+        <a class="py-2 d-none d-md-inline-block" href="${pageContext.request.contextPath}/cars">Car list</a>
         <a class="py-2 d-none d-md-inline-block" href="#">Nic</a>
         <a class="py-2 d-none d-md-inline-block" href="#">Nic</a>
         <a class="py-2 d-none d-md-inline-block" href="#">Nic</a>
